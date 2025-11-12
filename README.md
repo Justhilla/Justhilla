@@ -5,7 +5,7 @@ I'm a software developer who is passionate about building impactful and fun tech
 
 🌱 I’m currently working on improving my web development skills using JavaScript, React, and Python.  
 💬 Ask me about frontend development, APIs, or open-source collaboration.  
-📫 Reach me via [whatapp]((https://wa.me/+254797621083?text=<urlencodedtext>)) or [Email]:hillarymutethia119@gmail.com.
+📫 Reach me via [whatapp]: 0797621083 or [Email]:hillarymutethia119@gmail.com.
 
 ---
 

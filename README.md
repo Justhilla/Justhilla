@@ -6,6 +6,7 @@ I'm a software developer who is passionate about building impactful and fun tech
 🌱 I’m currently working on improving my web development skills using JavaScript, Angular, React,,MYsql and Python.  
 💬 Ask me about frontend/backend development, APIs, or open-source collaboration.  
 📫 Reach me via [whatapp]: 0797621083 or [Email]:hillarymutethia119@gmail.com.
+🔗 (https://portfolio-site-liard-six-95.vercel.app/)
 
 ---
 
